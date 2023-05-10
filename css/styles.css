@@ -1,0 +1,46 @@
+body{
+    background-color: #C2DED1;
+    margin: 0px;
+}
+
+h3{
+    font-family: Merriweather, sans-serif;
+    font-size: 20px;
+        
+}
+
+p{
+    font-weight: bold;
+}
+
+.Name{
+    margin-top: 0px;
+    padding-top: 15px;
+    margin-left: 30px;
+    
+}
+
+.Designation{
+    margin-left: 20px;
+}
+
+.smallbg{
+    background-color: #A5BECC;
+    width: 30%;
+    padding: 50px;
+    padding-bottom: 70px;
+    border-radius: 0px;
+    position: relative;
+    left: 470px;
+
+}
+
+.largebg{
+    background-color: #354259;
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 70px;
+    margin-right: 600px;
+    padding: 100px;
+    width: 30%;
+}
